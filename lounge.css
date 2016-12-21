@@ -34,6 +34,7 @@ h2 {
   background-position: top left;
 }
 #elixirs{
+	border:thin #007e7e solid;
 
 	width:200px;
 	
@@ -57,4 +58,10 @@ h2 {
 	text-align:center;
 	line-height:normal;
 	margin-top:30px;
+}
+.cd{
+	font-style:italic;
+}
+.artist{
+	font-weight:bold;
 }
